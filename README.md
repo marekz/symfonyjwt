@@ -76,3 +76,5 @@ Enjoy!
 [14]: https://symfony.com/doc/current/setup/built_in_web_server.html
 [15]: https://symfony.com/doc/current/setup.html
 # symfonyjwt
+
+https://webmtkblog.wordpress.com/2017/03/06/api-konfiguracja-json-web-token/
